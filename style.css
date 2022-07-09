@@ -214,3 +214,19 @@ input[type="submit"] {
     height: 40px;
     margin-right: -100px;
 }
+
+.footer {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-size: 100px;
+    color: brown;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: wavy;
+    font-size: large;
+}
